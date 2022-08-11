@@ -13,5 +13,5 @@
 
 #### Done? Here are some other things to look at...
 
-- Resume: https://drive.google.com/file/d/1ax8fPAOLTdCnaFwBvWFlQnrOxyWFmzER/view?usp=sharing
+- Resume: https://docs.google.com/document/d/1dNrOLg4rxKXU2BsS-fhANz2ljRhTvWHp0lHqj37ohO8/edit?usp=sharing
 - LinkedIn: https://www.linkedin.com/in/jsi19/
