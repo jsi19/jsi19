@@ -5,11 +5,10 @@
 - 🌱 I’m currently learning how to tackle technical interviews to prove my ability to problem-solve and code.
 - ⚡ Fun fact: I built and led the Robotics Team at Rio Hondo College to give a platform of self-expression for my fellow engineers.
 
+
 ### Feel free to check out my favorite projects!
 
 1. [Projects created with Snap Inc.](https://github.com/jsi19/Snap-Inc-Projects) ⭐👻📸
-
-2. [Projects created at Pasadena City College](https://github.com/JonathanCNg/Academic-Projects/blob/main/README.md) 🏫🎒
 
 
 #### Done? Here are some other things to look at...
